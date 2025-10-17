@@ -45,14 +45,23 @@
             <td><a href="https://git.panca.kz/bakonpancakz/emailengine">Repository</a></td>
         </tr>
         <tr>
-            <td>📦 tools-gatekeeper</td>
+            <td>📦 s3-gatekeeper</td>
             <td>Use HMAC Tokens and Patterns to Gatekeep S3 Objects</td>
-            <td><a href="https://git.panca.kz/bakonpancakz/tools-gatekeeper">Repository</a></td>
+            <td><a href="https://git.panca.kz/bakonpancakz/s3-gatekeeper">Repository</a></td>
         </tr>
         <tr>
-            <td>⌚ discord-trackpad</td>
+            <td>🎴 stickerboard</td>
+            <td>Allow strangers to <i>"safely"</i> place Images on a Canvas</td>
+            <td>
+                <a href="https://git.panca.kz/bakonpancakz/stickerboard">Repository</a>
+                <span>&bull;</span>
+                <a href="https://stickers.panca.kz/">Website</a>
+            </td>
+        </tr>
+        <tr>
+            <td>⌚ trackpad</td>
             <td>Show off your Wakatime and Lines of Code on Discord</td>
-            <td><a href="https://git.panca.kz/bakonpancakz/discord-trackpad">Repository</a></td>
+            <td><a href="https://git.panca.kz/bakonpancakz/trackpad">Repository</a></td>
         </tr>
         <tr>
             <td>
@@ -62,25 +71,16 @@
             <td>A cute game I made on ROBLOX for fun, try it!!!</td>
             <td><a href="https://www.roblox.com/games/9987852646">Game</a></td>
         </tr>
-        <!-- <tr>
-            <td>tools-stickerboard</td>
-            <td>Allow strangers to *safely* place GIFs and Images onto your Steam Profile</td>
-            <td>
-                <a href="https://git.panca.kz/bakonpancakz/tools-stickerboard">Repository</a>
-                <span>&bull;</span>
-                <a href="https://stickers.panca.kz">Website</a>
-            </td>
-        </tr>
-        <tr>
-            <td>discord-clips</td>
-            <td>Media Sharing Website for Discord Users</td>
-            <td>
-                <a href="https://git.panca.kz/bakonpancakz/discord-clips">Repository</a>
-                <a href="https://clips.panca.kz">Website</a>
-            </td>
-        </tr> -->
     </tbody>
 </table>
+
+<h3>Le Stickerboard</h3>
+<p>Might be delayed due to Caching. From the aforementioned <a href="https://git.panca.kz/bakonpancakz/stickerboard">stickerboard project</a>. Post a sticker <a href="https://stickers.panca.kz/">here</a>!</p>
+
+<p align="center">
+    <img src="https://stickers.panca.kz/assets/stickerboard.webp" width=684 height=384>
+</p>
+<hr>
 
 <br>
 
