@@ -54,7 +54,6 @@
             <td>Allow strangers to <i>"safely"</i> place Images on a Canvas</td>
             <td>
                 <a href="https://git.panca.kz/bakonpancakz/stickerboard">Repository</a>
-                <span>&bull;</span>
                 <a href="https://stickers.panca.kz/">Website</a>
             </td>
         </tr>
