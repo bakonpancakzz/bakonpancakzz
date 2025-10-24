@@ -42,25 +42,25 @@
         <tr>
             <td>📧 emailengine</td>
             <td>Provide your application a way to send emails with minimal setup</td>
-            <td><a href="https://git.panca.kz/bakonpancakz/emailengine">Repository</a></td>
+            <td><a href="https://github.com/bakonpancakzz/emailengine">Repository</a></td>
         </tr>
         <tr>
             <td>📦 s3-gatekeeper</td>
             <td>Use HMAC Tokens and Patterns to Gatekeep S3 Objects</td>
-            <td><a href="https://git.panca.kz/bakonpancakz/s3-gatekeeper">Repository</a></td>
+            <td><a href="https://github.com/bakonpancakzz/s3-gatekeeper">Repository</a></td>
         </tr>
         <tr>
             <td>🎴 stickerboard</td>
             <td>Allow strangers to <i>"safely"</i> place Images on a Canvas</td>
             <td>
-                <a href="https://git.panca.kz/bakonpancakz/stickerboard">Repository</a>
+                <a href="https://github.com/bakonpancakzz/stickerboard">Repository</a>
                 <a href="https://stickers.panca.kz/">Website</a>
             </td>
         </tr>
         <tr>
             <td>⌚ trackpad</td>
             <td>Show off your Wakatime and Lines of Code on Discord</td>
-            <td><a href="https://git.panca.kz/bakonpancakz/trackpad">Repository</a></td>
+            <td><a href="https://github.com/bakonpancakzz/trackpad">Repository</a></td>
         </tr>
         <tr>
             <td>
@@ -74,7 +74,7 @@
 </table>
 
 <h3>My Stickerboard</h3>
-<p>Might be delayed due to Caching. From the aforementioned <a href="https://git.panca.kz/bakonpancakz/stickerboard">stickerboard project</a>. Post a sticker <a href="https://stickers.panca.kz/">here</a>!</p>
+<p>Might be slighly delayed due to GitHub Cache. Hosted with <a href="https://github.com/bakonpancakzz/stickerboard">stickerboard</a>. Post a sticker <a href="https://stickers.panca.kz">here</a>!</p>
 
 <p align="center">
     <img src="https://stickers.panca.kz/assets/stickerboard.webp" width=684 height=384>
