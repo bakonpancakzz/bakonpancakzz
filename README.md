@@ -5,31 +5,31 @@
 <hr>
 
 <h3>My Toolkit</h3>
-<p>Listed in no particular order, just things I use regularly:</p>
+<p>In no particular order, just things I use on a regular basis:
 <p>
     <img alt="Cloudflare" src="badges/generated/cloudflare.png" />
-    <img alt="Debian" src="badges/generated/debian.png" />
     <img alt="DigitalOcean" src="badges/generated/digitalocean.png" />
-    <img alt="Docker" src="badges/generated/docker.png" />
     <img alt="Google Cloud" src="badges/generated/gcp.png" />
-    <img alt="Golang" src="badges/generated/go.png" />
+    <img alt="Docker" src="badges/generated/docker.png" />
+    <img alt="Debian" src="badges/generated/debian.png" />
     <img alt="Postgres" src="badges/generated/postgres.png" />
+    <img alt="Redis" src="badges/generated/redis.png" />
+    <img alt="Lua" src="badges/generated/lua.png">
+    <img alt="Golang" src="badges/generated/go.png" />
     <img alt="NodeJS" src="badges/generated/node.png" />
-    <img alt="React" src="badges/generated/react.png" />
     <img alt="TypeScript" src="badges/generated/typescript.png" />
+    <img alt="React" src="badges/generated/react.png" />
+    <img alt="PugJS" src="badges/generated/pug.png" />
     <img alt="HTML5" src="badges/generated/html.png" />
     <img alt="CSS" src="badges/generated/css.png" />
     <img alt="JavaScript" src="badges/generated/javascript.png" />
-    <img alt="PugJS" src="badges/generated/pug.png" />
+    <img alt="Visual Studio Code" src="badges/generated/vscode.png">
     <img alt="Git" src="badges/generated/git.png" />
     <img alt="TensorFlow" src="badges/generated/tensorflow.png" />
-    <img alt="Redis" src="badges/generated/redis.png" />
-    <img alt="Lua" src="badges/generated/lua.png">
-    <img alt="Visual Studio Code" src="badges/generated/vscode.png">
 </p>
 
 <h3>My Stuff</h3>
-<p>Personal projects cleaned up and documented for public use:</p>
+<p>Personal projects cleaned up and prepared for public use:</p>
 <table>
     <thead>
         <tr align="left">
@@ -39,6 +39,11 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>🔒 template-auth</td>
+            <td>Feature Rich Authentication Framework written in Go</td>
+            <td><a href="https://github.com/bakonpancakzz/template-auth">Repository</a></td>
+        </tr>
         <tr>
             <td>📧 emailengine</td>
             <td>Provide your application a way to send emails with minimal setup</td>
@@ -73,14 +78,7 @@
     </tbody>
 </table>
 
-<h3>My Stickerboard</h3>
-<p>Might be slighly delayed due to GitHub Cache. Hosted with <a href="https://github.com/bakonpancakzz/stickerboard">stickerboard</a>. Post a sticker <a href="https://stickers.panca.kz">here</a>!</p>
-
-<p align="center">
-    <img src="https://stickers.panca.kz/assets/stickerboard.webp" width=684 height=384>
-</p>
 <hr>
-
 <br>
 
 <p align="center">Wanna get in touch? Find me here!</p>
