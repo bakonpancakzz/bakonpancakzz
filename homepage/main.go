@@ -14,8 +14,6 @@ import (
 	"bakonpancakz/homepage/env"
 	"bakonpancakz/homepage/include"
 	"bakonpancakz/homepage/routes"
-
-	_ "github.com/joho/godotenv/autoload"
 )
 
 func main() {
