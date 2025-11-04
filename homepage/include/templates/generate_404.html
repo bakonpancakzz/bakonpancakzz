@@ -7,8 +7,8 @@
     <meta name="robots" content="noindex">
     <title>Page Not Found</title>
     <style>
-        :root{
-            --color: {{ .Site.Color }};
+        :root {
+            --color: {{.Site.Color}};
         }
 
         body {
@@ -16,61 +16,55 @@
             margin: 0;
         }
 
-        a,
-        p {
-            font-family: "MS Gothic", monospace;
-            line-height: 16px;
+        img {
+            image-rendering: pixelated;
+            margin-bottom: 16px;
         }
 
-        p {
-            color: #f0f0f0;
-            margin: 4px 0;
-        }
-
-        a,
-        a:visited {
-            color: rgba(var(--color), 1);
-            display: inline-block;
-            text-align: center;
-            width: 50%;
-            text-decoration: none;
-        }
-
-        a:hover,
-        a:focus-visible {
-            text-decoration: underline;
-            outline: none;
-        }
-
-        div {
-            width: 200px;
-            text-align: center;
+        div.special-wrapper {
             position: absolute;
             left: 50%;
             top: 50%;
             transform: translate(-50%, -50%);
+            display: grid;
+            justify-items: center;
+            gap: 16px;
         }
+
+        div.special-actions a {
+            padding: 0 16px;
+        }
+
+        p, a {
+            font-family: "MS PGothic", monospace;
+            font-size: large;
+            color: #f0f0f0;
+            text-align: center;
+            margin: 0;
+        }
+
+        a {
+            color: rgb(var(--color));
+        }
+
+        p.text-head {
+            color: rgb(var(--color));
+            font-weight: bold;
+        }
+         
     </style>
 </head>
 
 <body>
-    <div>
-        <p>404: Page Not Found </p>
-        <br>
-        <p>.-.</p>
-        <br>
-        <a href="javascript:window.history.back()">Go Back</a><a href="/">Homepage</a>
+    <div class="special-wrapper">
+        <img src="/public/banner_lost.gif?v={{ .Version }}" alt="Lost Sprite">
+        <p class="text-head">Page Not Found</p>
+        <p class="text-body">Don't panic little sprite! We'll find our way back!</p>
+        <div class="special-actions">
+            <a href="javascript:window.history.back()">Go Back</a>
+            <a href="/">Homepage</a>
+        </div>
     </div>
-    <script>
-        // Note: In MS Gothic, backslash shows as ¥ on Windows
-        const catalog = [
-            ".(^Д^)/", "(・.・)", "(°Δ°)b", "(・_・)", "(^_^)", "(>_<)",
-            "(o^^)o", "(;-;)", ".(≧o≦)/", "(o_o)", "(^-^*)", "(='X'=)",
-            "(￣へ￣)", "(★ω★)", "ᓚᘏᗢ", "✿◠‿◠", "(●'◡'●)", "◑﹏◐"
-        ];
-        const kaomoji = catalog[Math.floor(Math.random() * catalog.length)];
-        document.querySelectorAll("p")[1].textContent = kaomoji;
-    </script>
 </body>
 
 </html>
