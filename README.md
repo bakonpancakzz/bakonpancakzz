@@ -39,22 +39,22 @@
     <tbody>
         <tr>
             <td>🔒 template-auth</td>
-            <td>Feature Rich Authentication Framework written in Go</td>
+            <td>Feature-rich Authentication Framework written in Go</td>
             <td><a href="https://github.com/bakonpancakzz/template-auth">Repository</a></td>
         </tr>
         <tr>
             <td>📧 emailengine</td>
-            <td>Provide your application a way to send emails with minimal setup</td>
+            <td>Provide your applications a way to send emails with minimal headache</td>
             <td><a href="https://github.com/bakonpancakzz/emailengine">Repository</a></td>
         </tr>
         <tr>
             <td>📦 s3-gatekeeper</td>
-            <td>Use HMAC Tokens and Patterns to Gatekeep S3 Objects</td>
+            <td>Use HMAC tokens and patterns to gatekeep S3 objects</td>
             <td><a href="https://github.com/bakonpancakzz/s3-gatekeeper">Repository</a></td>
         </tr>
         <tr>
             <td>🎴 stickerboard</td>
-            <td>Allow strangers to <i>"safely"</i> place Images on a Canvas</td>
+            <td>Allow strangers to <i>'safely'</i> place Images on a canvas</td>
             <td>
                 <a href="https://github.com/bakonpancakzz/stickerboard">Repository</a>
                 <a href="https://stickers.panca.kz/">Website</a>
@@ -94,5 +94,5 @@
     </a>
 </p>
 <h6 align="center">
-    <i>Twitter and ROBLOX is a personal space - beware!</i>
+    <i>Twitter and ROBLOX are personal spaces — beware!</i>
 </h6>
