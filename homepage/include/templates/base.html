@@ -37,8 +37,13 @@
         </div>
 
         <!-- Content -->
-        <div class="layout-content effect-caution">
-            {{ block "PageContent" . }}{{ end }}
+        <div class="layout-content">
+            <div class="layout-body effect-caution">
+                {{ block "PageContent" . }}{{ end }}
+            </div>
+            <div class="layout-footer">
+                {{ block "PageFooter" . }}{{ end }}
+            </div>
         </div>
 
     </div>

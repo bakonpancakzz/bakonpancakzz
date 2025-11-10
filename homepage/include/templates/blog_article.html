@@ -80,3 +80,10 @@
     {{ block "ArticleContent" . }}{{ end }}
 </div>
 {{ end }}
+
+{{ define "PageFooter" }}
+<div class="article-footer">
+    <!-- okay don't tell him... but he only exists so the chapter highlighting works properly... shhh! -->
+    <img alt="Important Sprite" title="woah you found me! my purpose is to greet you! hi!" src="/public/article_footer.gif?v={{ .Version }}" />
+</div>
+{{ end }}
